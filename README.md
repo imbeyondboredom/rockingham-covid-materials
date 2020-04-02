@@ -24,4 +24,4 @@ https://docs.google.com/spreadsheets/d/1lWAVxvWqQS9skiFBdyNcIXfMyymdTcAKW8oR9qk1
 
 ## What we need
 - People to print
-- People with access to the shielding and bands
+- People with access to the materials for shielding and bands
